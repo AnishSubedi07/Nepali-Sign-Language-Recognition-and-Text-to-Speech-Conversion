@@ -16,4 +16,4 @@ python -u "<directory-path>/app_gui.py"
 
 ## Result
 
-![Result](https://github.com/AnishSubedi07/Nepali-Sign-Language-Recognition-and-Text-to-Speech-Conversion/blob/main/Picture/result.png?raw=true)
+![Result](https://github.com/AnishSubedi07/Nepali-Sign-Language-Recognition-and-Text-to-Speech-Conversion/blob/main/Pictures/result.png?raw=true)
