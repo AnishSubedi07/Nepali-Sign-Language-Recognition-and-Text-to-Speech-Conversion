@@ -1,0 +1,11 @@
+setuptools==75.1.0
+numpy
+pandas
+scikit-learn
+pillow
+seaborn
+matplotlib==3.9.2
+mediapipe==0.10.18
+opencv-contrib-python
+streamlit-option-menu==0.4.0
+tensorflow==2.18.0

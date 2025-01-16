@@ -1,0 +1,7 @@
+picture_original/
+keypoint.csv
+trained_models/
+slenv/
+data_collection_left.py
+data_collection_right.py
+
